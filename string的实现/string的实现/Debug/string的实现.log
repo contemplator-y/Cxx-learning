@@ -1,0 +1,7 @@
+﻿  test.cpp
+d:\程序代码\代码\string的实现\string的实现\test.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+d:\程序代码\代码\string的实现\string的实现\test.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+d:\程序代码\代码\string的实现\string的实现\test.cpp(209): warning C4018: “>”: 有符号/无符号不匹配
+d:\程序代码\代码\string的实现\string的实现\test.cpp(225): warning C4018: “>”: 有符号/无符号不匹配
+d:\程序代码\代码\string的实现\string的实现\test.cpp(239): warning C4018: “<=”: 有符号/无符号不匹配
+  string的实现.vcxproj -> D:\程序代码\代码\string的实现\Debug\string的实现.exe
