@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\程序代码\代码\vecotr的实现\vecotr的实现\test.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+          d:\程序代码\代码\vecotr的实现\vecotr的实现\test.cpp(216): 参见对正在编译的函数 模板 实例化“void printVector<int>(Vector<int> &)”的引用
+  vecotr的实现.vcxproj -> D:\程序代码\代码\vecotr的实现\Debug\vecotr的实现.exe
