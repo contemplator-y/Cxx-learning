@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最长的回文子串", "最长的回文子串\最长的回文子串.vcxproj", "{88DA877E-EA92-47DA-B283-78E5910E691D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DA877E-EA92-47DA-B283-78E5910E691D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88DA877E-EA92-47DA-B283-78E5910E691D}.Debug|Win32.Build.0 = Debug|Win32
+		{88DA877E-EA92-47DA-B283-78E5910E691D}.Release|Win32.ActiveCfg = Release|Win32
+		{88DA877E-EA92-47DA-B283-78E5910E691D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
