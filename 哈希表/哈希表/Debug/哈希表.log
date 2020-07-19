@@ -1,0 +1,6 @@
+﻿  test.cpp
+d:\程序代码\代码\哈希表\哈希表\test.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+          d:\程序代码\代码\哈希表\哈希表\test.cpp(76): 编译类 模板 成员函数“void HashTable<int,int>::checkCapacity(void)”时
+          d:\程序代码\代码\哈希表\哈希表\test.cpp(33): 参见对正在编译的函数 模板 实例化“void HashTable<int,int>::checkCapacity(void)”的引用
+          d:\程序代码\代码\哈希表\哈希表\test.cpp(93): 参见对正在编译的类 模板 实例化“HashTable<int,int>”的引用
+  哈希表.vcxproj -> D:\程序代码\代码\哈希表\Debug\哈希表.exe
